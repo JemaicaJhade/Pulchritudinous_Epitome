@@ -9,7 +9,7 @@ with st.container():
     st.subheader("Hi, I'm Jemaica Jhade Centino :wave:")
     st.title("Explore my Computer Engineering Journey through my blog")
     st.write("Hey there, Welcome to my blog where I'm documenting my journey as a student of computer engineering. This is going to be a rollercoaster ride and a whole lot of caffeinated late nights. The enigma of programming leads me into being more curious as thoughts roaming in my head and wanna make it into reality. ")
-    st.write("To explore and to navigate programming is not easy as typing and making a code, it takes a lot of patient for it to run well and being real through imagination.")
+    st.write("To explore and to navigate programming is not easy as typing and making a code, it takes a lot of patience for it to run well and being real through imagination.")
     st.write("[Message me in gmail >] jemaicajhade.30@gmail.com")
 
 
